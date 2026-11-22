@@ -47,7 +47,7 @@ Raw Order Data  →  Data Cleaning & Preparation  →  Pivot Analysis  →  Inte
 |---|---|
 | 💰 Total Sales | **₹53.01M** |
 | 📦 Total Orders | **197,430** |
-| 🧾 Average Order Value | **₹268.51** |
+| 🧾 Average Order Value | **₹268.34** |
 | ⭐ Average Rating | **4.34 / 5.0** |
 | 🗳️ Rating Count | **5.59M** |
 
@@ -64,7 +64,7 @@ Raw Order Data  →  Data Cleaning & Preparation  →  Pivot Analysis  →  Inte
 - **Karnataka leads all states** in total sales, followed by Uttar Pradesh, Telangana, Maharashtra, and Delhi — a clear signal for where market investment and restaurant onboarding pay off most.
 - **Vegetarian orders make up 65%** of all orders vs. 35% Non-Vegetarian, a strong input for menu planning and restaurant-partner curation.
 - **4.34/5.0 average rating across 5.59M ratings** is a statistically credible signal of consistent service quality across the platform.
-- **₹268.51 average order value** points to consistent, mid-range spending behavior rather than occasional high-value outliers.
+- **₹268.34 average order value** points to consistent, mid-range spending behavior rather than occasional high-value outliers.
 - Monthly, weekly, and daily sales views expose recurring demand patterns that can guide staffing, inventory, and promotional timing.
 
 ## Repository Structure
